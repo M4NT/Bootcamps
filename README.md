@@ -1,3 +1,3 @@
 # Bootcamps
 
-Challenges and projects that were passed during my bootcamp experience.
+In this repository, I will use it to store files, code challenges and projects developed during my bootcamp classes.
